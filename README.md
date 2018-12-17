@@ -1,3 +1,13 @@
+# some extension support: 
+
+- php7
+
+- mysql
+
+- sqlserver
+
+- redis
+
 # Docker php7-oci8-apache
 
 This image is built on the [official PHP docker image](https://hub.docker.com/_/php/)
